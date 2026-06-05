@@ -8,8 +8,8 @@ audience engagement, content licensing, royalty calculations, and revenue analyt
 
 ## Tech Stack
 - Backend  : Java Spring Boot 3.2.0
-- Frontend : React / Angular
-- Database : MySQL / PostgreSQL
+- Frontend : Angular
+- Database : MySQL
 - Build    : Maven
 
 ## Modules
